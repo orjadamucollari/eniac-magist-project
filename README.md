@@ -1,4 +1,4 @@
-# sql-tableau-business-project
+# SQL_Tableau business-project
 
 
 The purpose of the project was to decide whether ENIAC (a European tech company specialised in Apple compatible accessories) should expand its business to the Brazilian market or not. 
